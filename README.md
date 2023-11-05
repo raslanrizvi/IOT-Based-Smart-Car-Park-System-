@@ -1,2 +1,8 @@
-# IOT-Based-Smart-Car-Park-System-
-This is a complete code for a Arduino Smart Car Park System. We implemented this project for our HND IOT subject assignment.
+# Smart Car Park System
+#### This is a Smart Car Park System, Developed with Arduino. C# Programming Language was used throughout the project.
+#### This is a Group project and the members are,
+        - Raslan Rizvi (MySelf)
+        - Sasanka Andrew
+        - Kavishka Chamuditha
+        - Mohamed Abdullah
+
