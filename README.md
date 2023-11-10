@@ -20,5 +20,16 @@
         - Toy Cars - min 02
 
 ### Some Images of our Project
+
+#### Prototype of Car Park System
+![Prototype of Car Park System](https://github.com/raslanrizvi/IOT-Based-Smart-Car-Park-System-/blob/main/images/prototype.png)
+
+
+#### Testing Ultra-Sonic Sensor
+![Prototype of Car Park System](https://github.com/raslanrizvi/IOT-Based-Smart-Car-Park-System-/blob/main/images/testingultrasonic.png)
+
+#### The Final Setup
+![Prototype of Car Park System](https://github.com/raslanrizvi/IOT-Based-Smart-Car-Park-System-/blob/main/images/Final%20setup.png)
+
         
 
